@@ -11,6 +11,7 @@ public class ForTest {
             System.out.print(i);
         }
         System.out.println();
+        //冒泡排序
         pubboSort(arr);
         System.out.print("排序后顺序:");
         for (int i : arr) {
